@@ -22,7 +22,7 @@ To install and run the Currency Converter application locally, follow these step
    git clone https://github.com/abhiram-bogisetty/Currency-Convertor.git
    cd Currency-Convertor
 2. **Open the project in Android Studio.**
-3. **Add the required permissions in the [AndroidManifest.xml](https://github.com/abhiram-bogisetty/Currency-Convertor/AndroidManifest.xml) for Internet access to fetch exchange rates.**
+3. **Add the required permissions in the [AndroidManifest.xml](https://github.com/abhiram-bogisetty/Currency-Convertor/gradle/wrapper/AndroidManifest.xml) for Internet access to fetch exchange rates.**
 4. **Build and run the application on your Android device or emulator.**
 ## Usage
 1. **Select the source currency from the dropdown menu.**
