@@ -46,5 +46,13 @@ To install and run the Currency Converter application locally, follow these step
 ## Acknowledgments
 -Thanks to [Open Exchange Rates](https://openexchangerates.org/) for providing the currency exchange API.
 
+![image](https://github.com/user-attachments/assets/ffb12b37-0c78-491c-9eeb-2c51e6f03754)
+![image](https://github.com/user-attachments/assets/a19e154f-76a4-4c28-ac6c-1a37ff98f795)
+![image](https://github.com/user-attachments/assets/5af0fd4e-f6ef-4536-b80f-58c45a06ee15)
+![image](https://github.com/user-attachments/assets/4997fb3e-0d62-434b-ada3-c1dae6ca2643)
+![image](https://github.com/user-attachments/assets/b6c8efc9-7302-4511-9416-e397405b4b7c)
+![image](https://github.com/user-attachments/assets/d7a27284-f28b-4150-84be-e04456b6a69f)
+
+
 
 
